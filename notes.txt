@@ -1,0 +1,15 @@
+    
+    
+    // hoisting
+    
+    // type coercion
+    
+    // diff bw == and ===
+    
+    // diff bw undefined and null 
+    
+
+
+// Array==
+
+    // methods(map,filter,reduce,sort)==
